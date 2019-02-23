@@ -3,7 +3,7 @@
 ## How to run
 Run ```npm i``` to install dependencies.
 
-``` node app.js fileToBase fileToCompare ```
+``` node app.js fileBase fileToCompare ```
 
 You can choose between: 
 - sample.html

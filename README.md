@@ -1,5 +1,7 @@
 # Node application test
 
+Task details: [https://github.com/maxinuss/node_agile/blob/master/AgileEngine%20-%20Back-end%20-%20Smart%20XML%20Analyzer%20-%20Test%20Task.pdf](https://github.com/maxinuss/node_agile/blob/master/AgileEngine%20-%20Back-end%20-%20Smart%20XML%20Analyzer%20-%20Test%20Task.pdf)
+
 ## How to run
 Run ```npm i``` to install dependencies.
 
